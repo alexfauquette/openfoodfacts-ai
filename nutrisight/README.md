@@ -11,6 +11,8 @@ Then, we analyzed where the model predictions differed from the annotations, to 
 
 The model is also available on [Hugging Face](https://huggingface.co/openfoodfacts/nutrition-extractor).
 
+## Demo
+
 You can easily test the model by running the `demo.py` script. The requirements are described as metadata at the top of the file, and
 the script can be run using [uv](https://docs.astral.sh/uv/) in a single step:
 
