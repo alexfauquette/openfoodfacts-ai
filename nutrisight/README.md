@@ -84,6 +84,11 @@ Then run the following command:
 optimum-cli export onnx -m openfoodfacts/nutrition-extractor --opset 19 --task token-classification nutrition-extractor-onnx-19
 ```
 
+## Paper
+
+A paper (written in LaTeX) describing the dataset is available in the `paper` directory. It is not yet published.
+The code to generate the figures is available in the `paper/analysis` directory.
+
 ## Thanks to our sponsors!
 
 The NutriSight project has indirectly received funding from the European Union’s Horizon Europe research and innovation action programme, via the DRG4FOOD – Open Call #1 issued and executed under the DRG4FOOD project (Grant Agreement no. 101086523).
